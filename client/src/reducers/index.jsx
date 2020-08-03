@@ -10,6 +10,3 @@ export default combineReducers({
   profile,
   post
 });
-
-
-
